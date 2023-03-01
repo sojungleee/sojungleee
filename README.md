@@ -22,6 +22,7 @@
 </div>
 <br>
 
+<!--
 ### Tools 
 <div>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
@@ -30,9 +31,9 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white" />
 </div> 
+-->
 
-<br><br>
-Contact me through email!
+### Email
 <a href="mailto:sojong1003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sojong1003@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" /></a>
 
 
